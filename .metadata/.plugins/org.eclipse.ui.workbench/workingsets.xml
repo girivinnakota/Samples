@@ -8,5 +8,9 @@
 <item elementID="=JavaCucumberSample/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=JavaCucumberSample/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580504036055_3" label="Test" name="Test">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaCucumberSample" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580421140198_2" label="Window Working Set" name="Aggregate for window 1580421140198"/>
+<mruList name="Test"/>
 </workingSetManager>
